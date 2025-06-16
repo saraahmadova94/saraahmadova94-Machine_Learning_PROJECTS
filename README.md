@@ -11,6 +11,7 @@ Welcome to my Machine Learning Projects repository! This is a collection of diff
 | **LR_Auto Scout Project**      | Linear Regression on automobile data for price prediction. |
 | **Raisin_classification_Project** | Classification of raisin types based on features using ML models. |
 | **Titanic_ML_Project**         | Predicting survival on the Titanic using popular datasets and feature engineering. |
+| **Soldier-Race Project**       | Analyzing and predicting soldiers' race performance using machine learning models based on provided datasets. |
 
 ## 🛠️ Tools & Technologies
 
